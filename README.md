@@ -18,7 +18,7 @@ HOW TO RUN?
 2. Download or clone this repository
 
       git clone
-      https://github.com/Rimshanaz05/Simple-Calculator.git
+      https://github.com/Rimshanaz05/Simple-Calculator-/blob/main/Calculator.py
 
 LICENSE
 
